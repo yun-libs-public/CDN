@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads_id>10</mads_id>
+  <monitor_id>35</monitor_id>
+  <airtime>2014-07-25</airtime>
+  <order>
+    <order_id>201</order_id>
+    <advertiser_name><![CDATA[株式会社広告主1]]></advertiser_name>
+    <creative>
+      <creative_id>1</creative_id>
+      <creative_url>https://s3-ap-northeast-1.amazonaws.com/yun.amazons3.public/air-stick/video/video1.mp4</creative_url>
+      <version>2014-03-01 17:00:13</version>
+      <crc>9ffe15be</crc>
+    </creative>
+  </order>
+  <order>
+    <order_id>203</order_id>
+    <advertiser_name><![CDATA[株式会社広告主1]]></advertiser_name>
+    <creative>
+      <creative_id>24</creative_id>
+      <creative_url>https://s3-ap-northeast-1.amazonaws.com/yun.amazons3.public/air-stick/video/video2.mp4</creative_url>
+      <version>2014-03-07 19:14:23</version>
+      <crc>6sdf59hr</crc>
+    </creative>
+  </order>
+</contents>
+
