@@ -12,61 +12,61 @@
          "id":1,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/a.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/a.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/a.jpg"
       },
       {
          "id":5,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/b.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/b.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/b.jpg"
       },
       {
          "id":9,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/c.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/c.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/c.jpg"
       },
       {
          "id":11,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/d.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/d.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/d.jpg"
       },
       {
          "id":12,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/e.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/e.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/e.jpg"
       },
       {
          "id":19,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/f.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/f.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/f.jpg"
       },
       {
          "id":22,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/g.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/g.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/g.jpg"
       },
       {
          "id":23,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/h.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/h.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/h.jpg"
       },
       {
          "id":25,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/i.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/i.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/i.jpg"
       },
       {
          "id":30,
          "title":"title1",
          "uri":"https://raw.githubusercontent.com/yun-github-public/CDN/master/vides/j.mp4",
-         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images/j.jpg"
+         "thumbnail":"https://raw.githubusercontent.com/yun-github-public/CDN/master/images2/j.jpg"
       }
    ]
 }
