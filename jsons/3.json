@@ -1,0 +1,39 @@
+{
+  "scenarios": [
+    {
+      "id": 1,
+      "name": "scenario1",
+      "description_text": "description1"
+    },
+    {
+      "id": 2,
+      "name": "scenario2",
+      "description_text": "description2"
+    },
+    {
+      "id": 3,
+      "name": "scenario3",
+      "description_text": "description3"
+    },
+    {
+      "id": 4,
+      "name": "scenario4",
+      "description_text": "description4"
+    },
+    {
+      "id": 5,
+      "name": "scenario5",
+      "description_text": "description5"
+    },
+    {
+      "id": 6,
+      "name": "scenario6",
+      "description_text": "description6"
+    },
+    {
+      "id": 7,
+      "name": "scenario7",
+      "description_text": "description7"
+    }
+  ]
+}
