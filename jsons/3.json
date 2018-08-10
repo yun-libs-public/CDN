@@ -1,6 +1,11 @@
 {
   "scenarios": [
     {
+      "id": 1,
+      "name": "scenario1",
+      "description_text": "description1"
+    },
+    {
       "id": 2,
       "name": "scenario2",
       "description_text": "description2"
