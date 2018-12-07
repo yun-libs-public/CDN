@@ -1,0 +1,111 @@
+{
+    "id": 7985,
+    "serial_number": "01000009",
+    "model_name": "ITB-5088",
+    "home_id": 4094563969,
+    "version": "10.00.00.07",
+    "mode": 0,
+    "alive_at": "2018-12-06T10:18:20Z",
+    "lastalert_at": null,
+    "devices": [
+        {
+            "id": 3580,
+            "node_id": 96,
+            "capability": 0,
+            "security": 0,
+            "basic_device_class": 0,
+            "generic_device_class": 0,
+            "specific_device_class": 0,
+            "node_name": null,
+            "node_name_type": null,
+            "location_name": null,
+            "location_name_type": null,
+            "manufacturer_id": 134,
+            "manufacturer_name": "Aeotec",
+            "product_type": 2564,
+            "product_id": 117,
+            "product_name": "Aeotec リピーター",
+            "zwave_plus_version": 0,
+            "role_type": 0,
+            "node_type": 0,
+            "installer_icon_type": 0,
+            "user_icon_type": 0,
+            "manufacturer_specific_command_class_v2": {
+                "device_id": "0A000100010108030300000208010600000000",
+                "device_id_type": 1
+            },
+            "support_commands": [
+                {
+                    "security": 0,
+                    "class": 94,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 38,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 51,
+                    "version": 1
+                },
+                {
+                    "security": 0,
+                    "class": 112,
+                    "version": 1
+                },
+                {
+                    "security": 0,
+                    "class": 133,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 89,
+                    "version": 1
+                },
+                {
+                    "security": 0,
+                    "class": 114,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 134,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 122,
+                    "version": 2
+                },
+                {
+                    "security": 0,
+                    "class": 115,
+                    "version": 1
+                },
+                {
+                    "security": 0,
+                    "class": 90,
+                    "version": 1
+                },
+                {
+                    "security": 0,
+                    "class": 239,
+                    "version": 1
+                }
+            ],
+            "alive_at": "2018-12-06T10:18:36Z",
+            "lastalert_at": null,
+            "protocol_type": 0,
+            "endpoint": 0,
+            "wake_up_interval": 60,
+            "nop_interval": 0,
+            "firmware_version": null,
+            "node_configurations": [],
+            "pairing_status": 0,
+            "rssi": 0
+        }
+    ]
+}
